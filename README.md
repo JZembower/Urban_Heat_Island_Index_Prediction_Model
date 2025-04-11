@@ -10,11 +10,12 @@ You can find the final model documentation in the [Model folder](Model) as [Fina
 Our model achieved a final accuracy of 0.9606, ranking 86th globally out of over two thousand participants. ![Model Accuracy Ranking](images_readme/model_ranking.png)
 
 ## Data Sources
-1. Sentinel-2 (Multispectral Imaging) median mosaic from 06/01/2021 - 09/01/2021
-2. Sentinel-1 (Radar Imaging) median mosaic from 06/01/2021 - 09/01/2021
-3. Landsat-8 (Thermal) temperature data from 15th May 2021
-4. Landsat-8 (Non Thermal) median mosaic from 06/01/2021 - 09/01/2021
+1. Sentinel-2 (Multispectral Imaging) median mosaic
+2. Sentinel-1 (Radar Imaging) median mosaic
+3. Landsat-8 (Thermal) temperature data
+4. Landsat-8 (Non Thermal) median mosaic
 5. Building & Natural Elevation (NYC Open Data Source)
+6. LiDAR DSM (Total Elevation), DTM (Natural Elevation), HAG (Building Height)
 
 ## Notebook Structure
 1. Introduction
